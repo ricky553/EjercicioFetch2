@@ -1,0 +1,11 @@
+.card-img-top {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    width: 100%;
+    height: auto;
+}
+
+.card-body {
+    padding: 5px;
+    text-align: center;
+}
